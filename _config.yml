@@ -4,7 +4,7 @@
 # Site Settings
 title                    : "Shuai Wang"
 description              : "Ph.D. student at UESTC. My research focuses on brain-inspired computing, spiking neural networks, efficient multimodal models, event-based tracking, and model compression."
-repository               : "Buwwy123/WangShuai.github.io"
+repository               : "buwwy123/buwwy123.github.io"
 google_scholar_stats_use_cdn : true
 
 # Google Analytics (optional)
