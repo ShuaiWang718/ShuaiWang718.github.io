@@ -109,7 +109,6 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 [Spiking Vision Transformer with Saccadic Attention](https://openreview.net/forum?id=qzZsz6MuEq)
 <span class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
-  <span class="pub-tag pub-tag--spotlight">Spotlight</span>
 </span>
 
 **Shuai Wang**, Malu Zhang, Dehao Zhang, Ammar Belatreche, Yichen Xiao, Yu Liang, Yimeng Shan, Qian Sun, Enqi Zhang, Yang Yang
@@ -130,7 +129,6 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 [Robust Spiking Neural Networks Against Adversarial Attacks](https://openreview.net/forum?id=qTqAL2t8Aa)
 <span class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
-  <span class="pub-tag pub-tag--spotlight">Spotlight</span>
 </span>
 
 **Shuai Wang**, Malu Zhang, Yulin Jiang, Dehao Zhang, Ammar Belatreche, Yu Liang, Yimeng Shan, Zijian Zhou, Yang Yang, Haizhou Li
