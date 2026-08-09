@@ -107,3 +107,51 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+/* Publication tags */
+.pub-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin: 0.3em 0 0.6em;
+}
+
+.pub-tag {
+  display: inline-block;
+  padding: 2px 6px;
+  border-radius: 2px;
+  color: #fff;
+  font-size: 0.68rem;
+  font-weight: 600;
+  line-height: 1.25;
+  white-space: nowrap;
+}
+
+/* Venue rankings */
+.pub-tag--ccfa {
+  background-color: #101586;
+}
+
+.pub-tag--ccfb {
+  background-color: #18794e;
+}
+
+/* Paper distinctions */
+.pub-tag--spotlight {
+  background-color: #781478;
+}
+
+.pub-tag--oral {
+  background-color: #b42318;
+}
+
+.pub-tag--cofirst {
+  background-color: #b25e09;
+}
+
+.pub-tag--corresponding {
+  background-color: #006d77;
+}
+
+.pub-tag--top {
+  background-color: #6246a5;
+}
