@@ -84,14 +84,14 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 <div class="paper-box-text" markdown="1">
 
 [Bipolar Self-attention for Spiking Transformers](https://papers.nips.cc/paper_files/paper/2025/hash/9316cfcb0a81e53a1f35b4353f115571-Abstract-Conference.html)
+<span class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">CCF-A</span>
+  <span class="pub-tag pub-tag--spotlight">Spotlight</span>
+</span>
 
 **Shuai Wang**, Malu Zhang, Jingya Wang, Dehao Zhang, Yimeng Shan, Jieyuan Zhang, Yichen Xiao, Honglin Cao, Haonan Zhang, Zeyu Ma, Yang Yang, Haizhou Li
 
 **NeurIPS 2025, Spotlight (Top 3%)**
-<div class="pub-tags">
-  <span class="pub-tag pub-tag--ccfa">CCF-A</span>
-  <span class="pub-tag pub-tag--spotlight">Spotlight</span>
-</div>
 
 - Introduces bipolar self-attention to model multi-polar membrane-potential interactions in Spiking Transformers.
 - Develops Shiftmax for efficient low-entropy attention allocation while preserving spike-driven computation.
@@ -107,14 +107,12 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 <div class="paper-box-text" markdown="1">
 
 [Spiking Vision Transformer with Saccadic Attention](https://openreview.net/forum?id=qzZsz6MuEq)
-
-**Shuai Wang**, Malu Zhang, Dehao Zhang, Ammar Belatreche, Yichen Xiao, Yu Liang, Yimeng Shan, Qian Sun, Enqi Zhang, Yang Yang
-
-**ICLR 2025**
-<div class="pub-tags">
+<span class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
   <span class="pub-tag pub-tag--spotlight">Spotlight</span>
-</div>
+</span>
+
+**Shuai Wang**, Malu Zhang, Dehao Zhang, Ammar Belatreche, Yichen Xiao, Yu Liang, Yimeng Shan, Qian Sun, Enqi Zhang, Yang Yang
 
 - Introduces Saccadic Spike Self-Attention to improve spatial relevance and temporal interactions in Spiking Vision Transformers.
 - Achieves strong performance across visual tasks with linear computational complexity.
@@ -130,14 +128,12 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 <div class="paper-box-text" markdown="1">
 
 [Robust Spiking Neural Networks Against Adversarial Attacks](https://openreview.net/forum?id=qTqAL2t8Aa)
-
-**Shuai Wang**, Malu Zhang, Yulin Jiang, Dehao Zhang, Ammar Belatreche, Yu Liang, Yimeng Shan, Zijian Zhou, Yang Yang, Haizhou Li
-
-**ICLR 2026**
-<div class="pub-tags">
+<span class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
   <span class="pub-tag pub-tag--spotlight">Spotlight</span>
-</div>
+</span>
+
+**Shuai Wang**, Malu Zhang, Yulin Jiang, Dehao Zhang, Ammar Belatreche, Yu Liang, Yimeng Shan, Zijian Zhou, Yang Yang, Haizhou Li
 
 - Identifies threshold-neighboring neurons as a key factor limiting adversarial robustness in directly trained SNNs.
 - Proposes Threshold Guarding Optimization to reduce state flipping under small perturbations.
@@ -153,13 +149,11 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 <div class="paper-box-text" markdown="1">
 
 [SNN-FT: Temporal-Coded Spiking Neural Networks for Fourier Transform](https://doi.org/10.1109/TNNLS.2025.3622893)
+<span class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">中科院一区</span>
+</span>
 
 **Shuai Wang**, Haorui Zheng, Yukun Chen, Ammar Belatreche, Guoqing Wang, Yeying Jin, Jibin Wu, Malu Zhang, Yang Yang, Haizhou Li
-
-**IEEE Transactions on Neural Networks and Learning Systems, 2026**
-<div class="pub-tags">
-  <span class="pub-tag pub-tag--ccfa">中科院一区</span>
-</div>
 
 - Develops a temporal-coded spiking implementation of the Fourier transform.
 - Provides an efficient neuromorphic signal-processing primitive with reduced latency and energy consumption.
@@ -174,15 +168,13 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 <div class="paper-box-text" markdown="1">
 
 [Rethinking Spiking Self-Attention Mechanism: Implementing α-XNOR Similarity Calculation in Spiking Transformers](https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_Rethinking_Spiking_Self-Attention_Mechanism_Implementing_a-XNOR_Similarity_Calculation_in_Spiking_CVPR_2025_paper.html)
-
-Yichen Xiao<sup>†</sup>, **Shuai Wang**<sup>†</sup>, Dehao Zhang, Wenjie Wei, Yimeng Shan, Xiaoli Liu, Yulin Jiang, Malu Zhang
-
-**CVPR 2025, Oral**
-<div class="pub-tags">
+<span class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
   <span class="pub-tag pub-tag--oral">Oral</span>
   <span class="pub-tag pub-tag--cofirst">Co-first</span>
-</div>
+</span>
+
+Yichen Xiao<sup>†</sup>, **Shuai Wang**<sup>†</sup>, Dehao Zhang, Wenjie Wei, Yimeng Shan, Xiaoli Liu, Yulin Jiang, Malu Zhang
 
 - Rethinks binary similarity estimation in Spiking Transformers through an α-XNOR attention mechanism.
 - **Equal contribution.**
@@ -197,13 +189,11 @@ Yichen Xiao<sup>†</sup>, **Shuai Wang**<sup>†</sup>, Dehao Zhang, Wenjie Wei
 <div class="paper-box-text" markdown="1">
 
 [Ternary Spike-Based Neuromorphic Signal Processing System](https://doi.org/10.1016/j.neunet.2025.107333)
+<span class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">中科院二区</span>
+</span>
 
 **Shuai Wang**, Dehao Zhang, Ammar Belatreche, Yichen Xiao, Hongyu Qing, Wenjie Wei, Malu Zhang, Yang Yang
-
-**Neural Networks, 187:107333, 2025**
-<div class="pub-tags">
-  <span class="pub-tag pub-tag--ccfa">中科院二区</span>
-</div>
 
 - Develops threshold-adaptive encoding and a quantized ternary SNN for efficient signal processing.
 - Supports speech and EEG recognition with substantially reduced memory and energy consumption.
@@ -219,14 +209,12 @@ Yichen Xiao<sup>†</sup>, **Shuai Wang**<sup>†</sup>, Dehao Zhang, Wenjie Wei
 <div class="paper-box-text" markdown="1">
 
 [Spike-Based Neuromorphic Model for Sound Source Localization](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ce953d71deeb33d9ffa2c879b518d273-Abstract-Conference.html)
-
-Dehao Zhang<sup>†</sup>, **Shuai Wang**<sup>†</sup>, Ammar Belatreche, Wenjie Wei, Yichen Xiao, Haorui Zheng, Zijian Zhou, Malu Zhang, Yang Yang
-
-**NeurIPS 2024** · **Equal contribution**
-<div class="pub-tags">
+<span class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
   <span class="pub-tag pub-tag--cofirst">Co-first</span>
-</div>
+</span>
+
+Dehao Zhang<sup>†</sup>, **Shuai Wang**<sup>†</sup>, Ammar Belatreche, Wenjie Wei, Yichen Xiao, Haorui Zheng, Zijian Zhou, Malu Zhang, Yang Yang
 
 - Integrates phase-locking auditory encoding with spike-based neural computation for sound-source localization.
 - Uses Resonate-and-Fire neurons to capture biologically meaningful spectral and temporal cues.
@@ -242,13 +230,11 @@ Dehao Zhang<sup>†</sup>, **Shuai Wang**<sup>†</sup>, Ammar Belatreche, Wenji
 <div class="paper-box-text" markdown="1">
 
 [Global-Local Convolution with Spiking Neural Networks for Energy-Efficient Keyword Spotting](https://www.isca-archive.org/interspeech_2024/wang24p_interspeech.html)
+<span class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">CCF-B</span>
+</span>
 
 **Shuai Wang**, Dehao Zhang, Kexin Shi, Yuchen Wang, Wenjie Wei, Jibin Wu, Malu Zhang
-
-**INTERSPEECH 2024**, pp. 4523–4527
-<div class="pub-tags">
-  <span class="pub-tag pub-tag--ccfa">CCF-B</span>
-</div>
 
 - Introduces Global-Local Spiking Convolution for sparse and energy-efficient speech feature extraction.
 - Combines it with a Bottleneck-PLIF module to achieve competitive accuracy with a compact model.
@@ -264,14 +250,12 @@ Dehao Zhang<sup>†</sup>, **Shuai Wang**<sup>†</sup>, Ammar Belatreche, Wenji
 <div class="paper-box-text" markdown="1">
 
 [Towards Training-Free and Accurate ANN-to-SNN Conversion via Activation-Aware Redistribution](https://ojs.aaai.org/index.php/AAAI/article/view/37148)
-
-Honglin Cao, **Shuai Wang**<sup>*</sup>, Zijian Zhou, Ammar Belatreche, Wenjie Wei, Yu Liang, Yang Yang, Rui Xi, Malu Zhang, Haizhou Li
-
-**AAAI 2026** · **Corresponding author**
-<div class="pub-tags">
+<span class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
   <span class="pub-tag pub-tag--corresponding">Corresponding</span>
-</div>
+</span>
+
+Honglin Cao, **Shuai Wang**<sup>*</sup>, Zijian Zhou, Ammar Belatreche, Wenjie Wei, Yu Liang, Yang Yang, Rui Xi, Malu Zhang, Haizhou Li
 
 - Introduces activation-aware redistribution to reduce the mismatch between ANN activations and SNN firing rates.
 - Enables accurate, low-latency ANN-to-SNN conversion without retraining.
@@ -287,14 +271,12 @@ Honglin Cao, **Shuai Wang**<sup>*</sup>, Zijian Zhou, Ammar Belatreche, Wenjie W
 <div class="paper-box-text" markdown="1">
 
 [SpikingLM: Towards Fully Spiking Language Model](https://openreview.net/forum?id=RirE9gm77w)
-
-Yu Liang, Zijian Zhou, Wenjie Wei, **Shuai Wang**<sup>*</sup>, Honglin Cao, Ammar Belatreche, Yu Yang, Malu Zhang, Yang Yang, Haizhou Li
-
-**ICML 2026** · **Corresponding author**
-<div class="pub-tags">
+<span class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
   <span class="pub-tag pub-tag--corresponding">Corresponding</span>
-</div>
+</span>
+
+Yu Liang, Zijian Zhou, Wenjie Wei, **Shuai Wang**<sup>*</sup>, Honglin Cao, Ammar Belatreche, Yu Yang, Malu Zhang, Yang Yang, Haizhou Li
 
 - Develops a fully spiking architecture for efficient language modeling.
 - Replaces major dense ANN operations with spike-driven computation while retaining competitive language-modeling capability.
@@ -307,50 +289,52 @@ Yu Liang, Zijian Zhou, Wenjie Wei, **Shuai Wang**<sup>*</sup>, Honglin Cao, Amma
 ## Additional Selected Papers
 
 1. Malu Zhang, **Shuai Wang**, Jibin Wu, Wenjie Wei, Dehao Zhang, Zijian Zhou, Siying Wang, Fan Zhang, Yang Yang. Toward Energy-Efficient Spike-Based Deep Reinforcement Learning with Temporal Coding. **IEEE Computational Intelligence Magazine**, 20(2):45–57, 2025.
-<div class="pub-tags">
+<span class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
-</div>
+</span>
 
 2. Dehao Zhang, Malu Zhang, **Shuai Wang**, Jingya Wang, Wenjie Wei, Zeyu Ma, Guoqing Wang, Yang Yang, Haizhou Li. [Dendritic Resonate-and-Fire Neuron for Effective and Efficient Long Sequence Modeling](https://papers.nips.cc/paper_files/paper/2025/hash/9a6ca401f890aeb2c272d2bb26196d3f-Abstract-Conference.html). **NeurIPS 2025**. 
-<div class="pub-tags">
+<span class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
-</div>
+</span>
 
 3. Jieyuan Zhang, Xiaolong Zhou, **Shuai Wang**, Wenjie Wei, Hanwen Liu, Qian Sun, Malu Zhang, Yang Yang, Haizhou Li. Unveiling the Spatial-Temporal Effective Receptive Fields of Spiking Neural Networks. **NeurIPS 2025**.
-<div class="pub-tags">
+<span class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
-</div>
+</span>
 
 4. Wenjie Wei, Malu Zhang, Jieyuan Zhang, Ammar Belatreche, **Shuai Wang**, Yimeng Shan, Hanwen Liu, Honglin Cao, Guoqing Wang, Yang Yang, et al. [S²NN: Sub-Bit Spiking Neural Networks](https://arxiv.org/abs/2509.24266). **NeurIPS 2025**.
-<div class="pub-tags">
+<span class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
-</div>
+</span>
 
 5. Dehao Zhang, **Shuai Wang**, Yichen Xiao, Wenjie Wei, Yimeng Shan, Malu Zhang, Yang Yang. [Memory-Free and Parallel Computation for Quantized Spiking Neural Networks](https://arxiv.org/abs/2503.00040). **ICASSP 2025**.
-<div class="pub-tags">
+<span class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
-</div>
+</span>
 
 6. Yu Liang, Yu Yang, Wenjie Wei, Ammar Belatreche, **Shuai Wang**, Malu Zhang, Yang Yang. [BSO: Binary Spiking Online Optimization Algorithm](https://proceedings.mlr.press/v267/liang25r.html). **ICML 2025**.
-<div class="pub-tags">
+<span class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
-</div>
+</span>
 
 7. Yu Liang, Wenjie Wei, Ammar Belatreche, **Shuai Wang**, Malu Zhang, Yang Yang. Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism. **AAAI 2025, Oral**.
-<div class="pub-tags">
+<span class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
   <span class="pub-tag pub-tag--oral">Oral</span>
-</div>
+</span>
 
 8. Kexin Shi, Hanwen Liu, Zeyang Song, Yang Liu, Jieyuan Zhang, **Shuai Wang**, Jibin Wu, Malu Zhang, Yang Yang. [Temporal Interaction in Spiking Transformers with Multi-Delay Mixer](https://openaccess.thecvf.com/content/CVPR2026/html/Shi_Temporal_Interaction_in_Spiking_Transformers_with_Multi-Delay_Mixer_CVPR_2026_paper.html). **CVPR 2026**.
-<div class="pub-tags">
+<span class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
-</div>
+</span>
+
 
 9. Jingya Wang, Xin Deng, Wenjie Wei, Dehao Zhang, **Shuai Wang**, Qian Sun, Jieyuan Zhang, Hanwen Liu, Ning Xie, Malu Zhang. [Training-Free ANN-to-SNN Conversion for High-Performance Spiking Transformers](https://ojs.aaai.org/index.php/AAAI/article/view/37195). **AAAI 2026**.
-<div class="pub-tags">
+<span class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
-</div>
+</span>
+
 
 ## Preprints and Manuscripts
 
