@@ -155,3 +155,16 @@ h1:before, .anchor:before {
 .pub-tag--top {
   background-color: #6246a5;
 }
+
+.pub-tags {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  gap: 4px;
+  vertical-align: middle;
+}
+
+.pub-tag {
+  display: inline-block;
+}
