@@ -129,6 +129,11 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 
 **ICLR 2025**
 
+<div class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">CCF-A</span>
+  <span class="pub-tag pub-tag--spotlight">Spotlight</span>
+</div>
+
 - Introduces Saccadic Spike Self-Attention to improve spatial relevance and temporal interactions in Spiking Vision Transformers.
 - Achieves strong performance across visual tasks with linear computational complexity.
 
@@ -147,6 +152,11 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 **Shuai Wang**, Malu Zhang, Yulin Jiang, Dehao Zhang, Ammar Belatreche, Yu Liang, Yimeng Shan, Zijian Zhou, Yang Yang, Haizhou Li
 
 **ICLR 2026**
+
+<div class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">CCF-A</span>
+  <span class="pub-tag pub-tag--spotlight">Spotlight</span>
+</div>
 
 - Identifies threshold-neighboring neurons as a key factor limiting adversarial robustness in directly trained SNNs.
 - Proposes Threshold Guarding Optimization to reduce state flipping under small perturbations.
@@ -185,6 +195,12 @@ Yichen Xiao<sup>†</sup>, **Shuai Wang**<sup>†</sup>, Dehao Zhang, Wenjie Wei
 
 **CVPR 2025, Oral**
 
+<div class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">CCF-A</span>
+  <span class="pub-tag pub-tag--oral">Oral</span>
+  <span class="pub-tag pub-tag--cofirst">Co-first</span>
+</div>
+
 - Rethinks binary similarity estimation in Spiking Transformers through an α-XNOR attention mechanism.
 - **Equal contribution.**
 
@@ -202,6 +218,7 @@ Yichen Xiao<sup>†</sup>, **Shuai Wang**<sup>†</sup>, Dehao Zhang, Wenjie Wei
 **Shuai Wang**, Dehao Zhang, Ammar Belatreche, Yichen Xiao, Hongyu Qing, Wenjie Wei, Malu Zhang, Yang Yang
 
 **Neural Networks, 187:107333, 2025**
+
 
 - Develops threshold-adaptive encoding and a quantized ternary SNN for efficient signal processing.
 - Supports speech and EEG recognition with substantially reduced memory and energy consumption.
@@ -221,6 +238,11 @@ Yichen Xiao<sup>†</sup>, **Shuai Wang**<sup>†</sup>, Dehao Zhang, Wenjie Wei
 Dehao Zhang<sup>†</sup>, **Shuai Wang**<sup>†</sup>, Ammar Belatreche, Wenjie Wei, Yichen Xiao, Haorui Zheng, Zijian Zhou, Malu Zhang, Yang Yang
 
 **NeurIPS 2024** · **Equal contribution**
+
+<div class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">CCF-A</span>
+  <span class="pub-tag pub-tag--cofirst">Co-first</span>
+</div>
 
 - Integrates phase-locking auditory encoding with spike-based neural computation for sound-source localization.
 - Uses Resonate-and-Fire neurons to capture biologically meaningful spectral and temporal cues.
@@ -260,6 +282,11 @@ Honglin Cao, **Shuai Wang**<sup>*</sup>, Zijian Zhou, Ammar Belatreche, Wenjie W
 
 **AAAI 2026** · **Corresponding author**
 
+<div class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">CCF-A</span>
+  <span class="pub-tag pub-tag--corresponding">Corresponding</span>
+</div>
+
 - Introduces activation-aware redistribution to reduce the mismatch between ANN activations and SNN firing rates.
 - Enables accurate, low-latency ANN-to-SNN conversion without retraining.
 
@@ -279,6 +306,11 @@ Yu Liang, Zijian Zhou, Wenjie Wei, **Shuai Wang**<sup>*</sup>, Honglin Cao, Amma
 
 **ICML 2026** · **Corresponding author**
 
+<div class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">CCF-A</span>
+  <span class="pub-tag pub-tag--corresponding">Corresponding</span>
+</div>
+
 - Develops a fully spiking architecture for efficient language modeling.
 - Replaces major dense ANN operations with spike-driven computation while retaining competitive language-modeling capability.
 
@@ -291,7 +323,7 @@ Yu Liang, Zijian Zhou, Wenjie Wei, **Shuai Wang**<sup>*</sup>, Honglin Cao, Amma
 
 1. Malu Zhang, **Shuai Wang**, Jibin Wu, Wenjie Wei, Dehao Zhang, Zijian Zhou, Siying Wang, Fan Zhang, Yang Yang. Toward Energy-Efficient Spike-Based Deep Reinforcement Learning with Temporal Coding. **IEEE Computational Intelligence Magazine**, 20(2):45–57, 2025.
 
-2. Dehao Zhang, Malu Zhang, **Shuai Wang**, Jingya Wang, Wenjie Wei, Zeyu Ma, Guoqing Wang, Yang Yang, Haizhou Li. [Dendritic Resonate-and-Fire Neuron for Effective and Efficient Long Sequence Modeling](https://papers.nips.cc/paper_files/paper/2025/hash/9a6ca401f890aeb2c272d2bb26196d3f-Abstract-Conference.html). **NeurIPS 2025**.
+2. Dehao Zhang, Malu Zhang, **Shuai Wang**, Jingya Wang, Wenjie Wei, Zeyu Ma, Guoqing Wang, Yang Yang, Haizhou Li. [Dendritic Resonate-and-Fire Neuron for Effective and Efficient Long Sequence Modeling](https://papers.nips.cc/paper_files/paper/2025/hash/9a6ca401f890aeb2c272d2bb26196d3f-Abstract-Conference.html). **NeurIPS 2025**. 
 
 3. Jieyuan Zhang, Xiaolong Zhou, **Shuai Wang**, Wenjie Wei, Hanwen Liu, Qian Sun, Malu Zhang, Yang Yang, Haizhou Li. Unveiling the Spatial-Temporal Effective Receptive Fields of Spiking Neural Networks. **NeurIPS 2025**.
 
