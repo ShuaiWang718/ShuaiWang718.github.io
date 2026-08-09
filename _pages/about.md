@@ -105,6 +105,11 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 
 **NeurIPS 2025, Spotlight (Top 3%)**
 
+<div class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">CCF-A</span>
+  <span class="pub-tag pub-tag--spotlight">Spotlight</span>
+</div>
+
 - Introduces bipolar self-attention to model multi-polar membrane-potential interactions in Spiking Transformers.
 - Develops Shiftmax for efficient low-entropy attention allocation while preserving spike-driven computation.
 
