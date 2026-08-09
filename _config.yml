@@ -5,7 +5,7 @@
 title                    : "Shuai Wang"
 description              : "Personal academic homepage"
 repository               : "buwwy123/buwwy123.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : ture
 
 # Google Analytics (optional)
 google_analytics_id      :
