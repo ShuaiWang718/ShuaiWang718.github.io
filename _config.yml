@@ -3,7 +3,7 @@
 
 # Site Settings
 title                    : "Shuai Wang"
-description              : "Ph.D. student in UESTC"
+description              : 
 repository               : "buwwy123/buwwy123.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -19,9 +19,9 @@ baidu_site_verification  :
 author:
   name             : "Shuai Wang"
   avatar           : "images/me.jpg"
-  bio              : "Ph.D. Student, UESTC"
+  bio              : "Ph.D. Student"
   location         : "Chengdu, Sichuan, China"
-  employer         : "University of Electronic Science and Technology of China"
+  employer         : "UESTC"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=89j9Uu4AAAAJ"
   email            : "wangshuai718@std.uestc.edu.cn"
