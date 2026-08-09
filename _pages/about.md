@@ -18,7 +18,7 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-Hello! 👋 I am **Shuai Wang (王帅)**, a Ph.D. candidate in the School of Computer Science and Engineering at the **University of Electronic Science and Technology of China (UESTC)**. I am pursuing a combined M.S.–Ph.D. program and expect to graduate in June 2027. From September 2026, I will join the **Language Model and Human–Computer Interaction Center at Shenzhen Loop Area Institute** as an Academic Elite joint-training researcher.
+Hello! 👋 I am **Shuai Wang (王帅)**, a Ph.D. candidate in the School of Computer Science and Engineering at the **University of Electronic Science and Technology of China (UESTC)**.  From September 2026, I will join the **Language Model and Human–Computer Interaction Center at Shenzhen Loop Area Institute** as an Academic Rising Star researcher.
 
 My research focuses on **brain-inspired computing**, **spiking neural networks**, **efficient multimodal models**, **event-based object tracking**, and **model compression**. I am particularly interested in developing accurate, energy-efficient, and hardware-friendly spiking models for visual, auditory, and multimodal intelligence on resource-constrained edge platforms.
 
@@ -47,7 +47,6 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 - Brain-inspired computing and spiking neural networks
 - Spiking Transformers and efficient sequence modeling
 - Multimodal brain-inspired models for edge intelligence
-- Event-based vision and object tracking
 - Quantization, pruning, distillation, and hardware-efficient deployment
 
 
@@ -55,10 +54,10 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 
 # 🎖 Honors and Awards
 
-- *2026.06*, **First Prize Award**, ACM Multimedia 2026 AdoDAS Emotion Analysis Challenge (CCF-A).
-- *2025.08*, **Best Dataset & Benchmark Award**, IJCAI 2025 Spike-CV Challenge (CCF-A).
+- *2026.06*, **First Prize Award(一等奖)**, ACM Multimedia 2026 AdoDAS Emotion Analysis Challenge (CCF-A).
+- *2025.08*, **Best Dataset & Benchmark Award（最佳数据集及基准奖）**, IJCAI 2025 Spike-CV Challenge (CCF-A).
 - *2025.10*, **National Scholarship for Ph.D. Students（博士国家奖学金）**, Ministry of Education of China.
-- *2026.03*, **Academic Rising Star（学术精英）**, University of Electronic Science and Technology of China.
+- *2026.03*, **Academic Rising Star（学术新秀）**, University of Electronic Science and Technology of China.
 - *2025*, **Spotlight Paper (Top 3%)**, NeurIPS 2025, for *Bipolar Self-attention for Spiking Transformers*.
 - *2025*, **Oral Paper （Top 0.96%）**, CVPR 2025, for *Rethinking Spiking Self-Attention Mechanism: Implementing α-XNOR Similarity Calculation in Spiking Transformers*.
 
@@ -69,21 +68,6 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 
 - **Conference Reviewer:** NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, and ACM Multimedia.
 - **Journal Reviewer:** IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Emerging Topics in Computational Intelligence, IEEE Transactions on Cognitive and Developmental Systems, Neural Networks, and Neurocomputing.
-
-
-<span class="anchor" id="research-projects"></span>
-<span class="anchor" id="internships"></span>
-
-# 🧪 Research Projects
-
-- *2026.01 – 2028.12*, **Multi-Brain-Region Collaborative Brain-Inspired Modeling with Spiking Neural Networks**, General Program of the National Natural Science Foundation of China. *Key Researcher.*  
-  Responsible for biologically inspired visual-pathway modeling and the development of a saccadic Spiking Transformer for active spatiotemporal perception.
-
-- *2024.03 – 2024.12*, **Spiking Neural Networks for Remote-Sensing Object Detection**, Aerospace Innovation Institute. *Student Lead.*  
-  Developed an adaptive-bit-width spiking detector and achieved less than a 2% performance degradation under 2-bit model compression. Also led project documentation and the final technical defense.
-
-- *2022.01 – 2024.12*, **Multimodal Brain-Inspired Models Based on Deep Spiking Neural Networks**, Young Scientists Fund of the National Natural Science Foundation of China. *Key Researcher.*  
-  Worked on keyword spotting, sound-source localization, EEG classification, and adversarial robustness using spiking neural networks.
 
 
 <span class="anchor" id="publications"></span>
@@ -104,7 +88,6 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 **Shuai Wang**, Malu Zhang, Jingya Wang, Dehao Zhang, Yimeng Shan, Jieyuan Zhang, Yichen Xiao, Honglin Cao, Haonan Zhang, Zeyu Ma, Yang Yang, Haizhou Li
 
 **NeurIPS 2025, Spotlight (Top 3%)**
-
 <div class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
   <span class="pub-tag pub-tag--spotlight">Spotlight</span>
@@ -128,7 +111,6 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 **Shuai Wang**, Malu Zhang, Dehao Zhang, Ammar Belatreche, Yichen Xiao, Yu Liang, Yimeng Shan, Qian Sun, Enqi Zhang, Yang Yang
 
 **ICLR 2025**
-
 <div class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
   <span class="pub-tag pub-tag--spotlight">Spotlight</span>
@@ -152,7 +134,6 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 **Shuai Wang**, Malu Zhang, Yulin Jiang, Dehao Zhang, Ammar Belatreche, Yu Liang, Yimeng Shan, Zijian Zhou, Yang Yang, Haizhou Li
 
 **ICLR 2026**
-
 <div class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
   <span class="pub-tag pub-tag--spotlight">Spotlight</span>
@@ -176,6 +157,9 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 **Shuai Wang**, Haorui Zheng, Yukun Chen, Ammar Belatreche, Guoqing Wang, Yeying Jin, Jibin Wu, Malu Zhang, Yang Yang, Haizhou Li
 
 **IEEE Transactions on Neural Networks and Learning Systems, 2026**
+<div class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">中科院一区</span>
+</div>
 
 - Develops a temporal-coded spiking implementation of the Fourier transform.
 - Provides an efficient neuromorphic signal-processing primitive with reduced latency and energy consumption.
@@ -194,7 +178,6 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 Yichen Xiao<sup>†</sup>, **Shuai Wang**<sup>†</sup>, Dehao Zhang, Wenjie Wei, Yimeng Shan, Xiaoli Liu, Yulin Jiang, Malu Zhang
 
 **CVPR 2025, Oral**
-
 <div class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
   <span class="pub-tag pub-tag--oral">Oral</span>
@@ -218,7 +201,9 @@ Yichen Xiao<sup>†</sup>, **Shuai Wang**<sup>†</sup>, Dehao Zhang, Wenjie Wei
 **Shuai Wang**, Dehao Zhang, Ammar Belatreche, Yichen Xiao, Hongyu Qing, Wenjie Wei, Malu Zhang, Yang Yang
 
 **Neural Networks, 187:107333, 2025**
-
+<div class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">中科院二区</span>
+</div>
 
 - Develops threshold-adaptive encoding and a quantized ternary SNN for efficient signal processing.
 - Supports speech and EEG recognition with substantially reduced memory and energy consumption.
@@ -238,7 +223,6 @@ Yichen Xiao<sup>†</sup>, **Shuai Wang**<sup>†</sup>, Dehao Zhang, Wenjie Wei
 Dehao Zhang<sup>†</sup>, **Shuai Wang**<sup>†</sup>, Ammar Belatreche, Wenjie Wei, Yichen Xiao, Haorui Zheng, Zijian Zhou, Malu Zhang, Yang Yang
 
 **NeurIPS 2024** · **Equal contribution**
-
 <div class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
   <span class="pub-tag pub-tag--cofirst">Co-first</span>
@@ -262,6 +246,9 @@ Dehao Zhang<sup>†</sup>, **Shuai Wang**<sup>†</sup>, Ammar Belatreche, Wenji
 **Shuai Wang**, Dehao Zhang, Kexin Shi, Yuchen Wang, Wenjie Wei, Jibin Wu, Malu Zhang
 
 **INTERSPEECH 2024**, pp. 4523–4527
+<div class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">CCF-B</span>
+</div>
 
 - Introduces Global-Local Spiking Convolution for sparse and energy-efficient speech feature extraction.
 - Combines it with a Bottleneck-PLIF module to achieve competitive accuracy with a compact model.
@@ -281,7 +268,6 @@ Dehao Zhang<sup>†</sup>, **Shuai Wang**<sup>†</sup>, Ammar Belatreche, Wenji
 Honglin Cao, **Shuai Wang**<sup>*</sup>, Zijian Zhou, Ammar Belatreche, Wenjie Wei, Yu Liang, Yang Yang, Rui Xi, Malu Zhang, Haizhou Li
 
 **AAAI 2026** · **Corresponding author**
-
 <div class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
   <span class="pub-tag pub-tag--corresponding">Corresponding</span>
@@ -305,7 +291,6 @@ Honglin Cao, **Shuai Wang**<sup>*</sup>, Zijian Zhou, Ammar Belatreche, Wenjie W
 Yu Liang, Zijian Zhou, Wenjie Wei, **Shuai Wang**<sup>*</sup>, Honglin Cao, Ammar Belatreche, Yu Yang, Malu Zhang, Yang Yang, Haizhou Li
 
 **ICML 2026** · **Corresponding author**
-
 <div class="pub-tags">
   <span class="pub-tag pub-tag--ccfa">CCF-A</span>
   <span class="pub-tag pub-tag--corresponding">Corresponding</span>
@@ -322,26 +307,53 @@ Yu Liang, Zijian Zhou, Wenjie Wei, **Shuai Wang**<sup>*</sup>, Honglin Cao, Amma
 ## Additional Selected Papers
 
 1. Malu Zhang, **Shuai Wang**, Jibin Wu, Wenjie Wei, Dehao Zhang, Zijian Zhou, Siying Wang, Fan Zhang, Yang Yang. Toward Energy-Efficient Spike-Based Deep Reinforcement Learning with Temporal Coding. **IEEE Computational Intelligence Magazine**, 20(2):45–57, 2025.
+<div class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">CCF-A</span>
+</div>
 
 2. Dehao Zhang, Malu Zhang, **Shuai Wang**, Jingya Wang, Wenjie Wei, Zeyu Ma, Guoqing Wang, Yang Yang, Haizhou Li. [Dendritic Resonate-and-Fire Neuron for Effective and Efficient Long Sequence Modeling](https://papers.nips.cc/paper_files/paper/2025/hash/9a6ca401f890aeb2c272d2bb26196d3f-Abstract-Conference.html). **NeurIPS 2025**. 
+<div class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">CCF-A</span>
+</div>
 
 3. Jieyuan Zhang, Xiaolong Zhou, **Shuai Wang**, Wenjie Wei, Hanwen Liu, Qian Sun, Malu Zhang, Yang Yang, Haizhou Li. Unveiling the Spatial-Temporal Effective Receptive Fields of Spiking Neural Networks. **NeurIPS 2025**.
+<div class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">CCF-A</span>
+</div>
 
 4. Wenjie Wei, Malu Zhang, Jieyuan Zhang, Ammar Belatreche, **Shuai Wang**, Yimeng Shan, Hanwen Liu, Honglin Cao, Guoqing Wang, Yang Yang, et al. [S²NN: Sub-Bit Spiking Neural Networks](https://arxiv.org/abs/2509.24266). **NeurIPS 2025**.
+<div class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">CCF-A</span>
+</div>
 
 5. Dehao Zhang, **Shuai Wang**, Yichen Xiao, Wenjie Wei, Yimeng Shan, Malu Zhang, Yang Yang. [Memory-Free and Parallel Computation for Quantized Spiking Neural Networks](https://arxiv.org/abs/2503.00040). **ICASSP 2025**.
+<div class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">CCF-A</span>
+</div>
 
 6. Yu Liang, Yu Yang, Wenjie Wei, Ammar Belatreche, **Shuai Wang**, Malu Zhang, Yang Yang. [BSO: Binary Spiking Online Optimization Algorithm](https://proceedings.mlr.press/v267/liang25r.html). **ICML 2025**.
+<div class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">CCF-A</span>
+</div>
 
 7. Yu Liang, Wenjie Wei, Ammar Belatreche, **Shuai Wang**, Malu Zhang, Yang Yang. Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism. **AAAI 2025, Oral**.
+<div class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">CCF-A</span>
+  <span class="pub-tag pub-tag--oral">Oral</span>
+</div>
 
 8. Kexin Shi, Hanwen Liu, Zeyang Song, Yang Liu, Jieyuan Zhang, **Shuai Wang**, Jibin Wu, Malu Zhang, Yang Yang. [Temporal Interaction in Spiking Transformers with Multi-Delay Mixer](https://openaccess.thecvf.com/content/CVPR2026/html/Shi_Temporal_Interaction_in_Spiking_Transformers_with_Multi-Delay_Mixer_CVPR_2026_paper.html). **CVPR 2026**.
+<div class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">CCF-A</span>
+</div>
 
 9. Jingya Wang, Xin Deng, Wenjie Wei, Dehao Zhang, **Shuai Wang**, Qian Sun, Jieyuan Zhang, Hanwen Liu, Ning Xie, Malu Zhang. [Training-Free ANN-to-SNN Conversion for High-Performance Spiking Transformers](https://ojs.aaai.org/index.php/AAAI/article/view/37195). **AAAI 2026**.
-
+<div class="pub-tags">
+  <span class="pub-tag pub-tag--ccfa">CCF-A</span>
+</div>
 
 ## Preprints and Manuscripts
 
-1. **Shuai Wang**, Malu Zhang, Dehao Zhang, Yimeng Shan, Jieyuan Zhang, Siqi Cai, Jibin Wu, Yang Yang, Huajin Tang, Haizhou Li. Towards High-Performance and Energy-Efficient Spiking Transformers with Bipolar Self-Attention. *Manuscript under review.*
+1. **Shuai Wang**, Malu Zhang, Dehao Zhang, Yimeng Shan, Jieyuan Zhang, Siqi Cai, Jibin Wu, Yang Yang, Huajin Tang, Haizhou Li. Towards High-Performance and Energy-Efficient Spiking Transformers with Bipolar Self-Attention. IJCV *Manuscript under review.*
 
-2. **Shuai Wang**, Jieyuan Zhang, Yang Yang, Huajin Tang, Haizhou Li. Algorithm–Hardware Co-Design of Binary Spiking Transformers for Edge Intelligence. *Manuscript under review.*
+2. **Shuai Wang**, Jieyuan Zhang, Yang Yang, Huajin Tang, Haizhou Li. Algorithm–Hardware Co-Design of Binary Spiking Transformers for Edge Intelligence. TPAMI *Manuscript under review.*
