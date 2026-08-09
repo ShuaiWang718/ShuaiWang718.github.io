@@ -59,7 +59,7 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 - *2025.10*, **National Scholarship for Ph.D. Students（博士国家奖学金）**, Ministry of Education of China.
 - *2026.03*, **Academic Rising Star（学术新秀）**, University of Electronic Science and Technology of China.
 - *2025*, **Spotlight Paper (Top 3%)**, NeurIPS 2025, for *Bipolar Self-attention for Spiking Transformers*.
-- *2025*, **Oral Paper （Top 0.96%）**, CVPR 2025, for *Rethinking Spiking Self-Attention Mechanism: Implementing α-XNOR Similarity Calculation in Spiking Transformers*.
+- *2025*, **Oral Paper (Top 0.96%)**, CVPR 2025, for *Rethinking Spiking Self-Attention Mechanism: Implementing α-XNOR Similarity Calculation in Spiking Transformers*.
 
 
 <span class="anchor" id="academic-services"></span>
