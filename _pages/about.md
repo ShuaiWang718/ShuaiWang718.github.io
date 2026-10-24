@@ -53,10 +53,10 @@ I have published more than 20 papers in CCF-A conferences and top-tier journals,
 <span class="anchor" id="honors-and-awards"></span>
 
 # 🎖 Honors and Awards
-
+- *2026.10*, **National Scholarship for Ph.D. Students（博士国家奖学金）**, Ministry of Education of China.
+- - *2025.10*, **National Scholarship for Ph.D. Students（博士国家奖学金）**, Ministry of Education of China.
 - *2026.06*, **First Prize Award(一等奖)**, ACM Multimedia 2026 AdoDAS Emotion Analysis Challenge (CCF-A).
 - *2025.08*, **Best Dataset & Benchmark Award（最佳数据集及基准奖）**, IJCAI 2025 Spike-CV Challenge (CCF-A).
-- *2025.10*, **National Scholarship for Ph.D. Students（博士国家奖学金）**, Ministry of Education of China.
 - *2026.03*, **Academic Rising Star（学术新秀）**, University of Electronic Science and Technology of China.
 - *2025*, **Spotlight Paper (Top 3%)**, NeurIPS 2025, for *Bipolar Self-attention for Spiking Transformers*.
 - *2025*, **Oral Paper (Top 0.96%)**, CVPR 2025, for *Rethinking Spiking Self-Attention Mechanism: Implementing α-XNOR Similarity Calculation in Spiking Transformers*.
